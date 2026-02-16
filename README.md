@@ -8,3 +8,5 @@ This project helps you install nginx on linux and then show a demo page
  sudo systemctl start nginx
  sudo systemctl enable nginx
  webpage is kept at /var/www/nginx
+
+ sab complete hogaya
